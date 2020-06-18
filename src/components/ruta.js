@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import Form from 'react-bootstrap/Form';
 import Col from 'react-bootstrap/Col';
 import DatePic from './datePicker';
-import Map from './googleMap';
+import LocationSearchInput from './googleMap';
 
 class Ruta extends Component {
 
@@ -26,8 +26,11 @@ class Ruta extends Component {
     }
 
     render() {
+
+        const {user} =this.props;
         return (
-            <Form>
+            <Form>   
+                <p>welcome {user}</p>                 
                  <Form.Row>
                     <Col>
                     <Form.Label>Punto Partida</Form.Label>
@@ -55,7 +58,7 @@ class Ruta extends Component {
                     <Form.Check type="checkbox" label="Anadir Regreso" />
                 </Form.Group>
                 <Form.Group>
-                    <Map />
+                    <LocationSearchInput />
                 </Form.Group>
                 <Form.Group controlId="exampleForm.ControlInput1">
                     <Form.Label>Punto Partida</Form.Label>
