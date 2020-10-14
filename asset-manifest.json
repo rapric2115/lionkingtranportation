@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14d56bcb.chunk.css",
+    "main.js": "/static/js/main.0db480a4.chunk.js",
+    "main.js.map": "/static/js/main.0db480a4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.65dca608.js",
+    "runtime-main.js.map": "/static/js/runtime-main.65dca608.js.map",
+    "static/css/2.9c2f8ba7.chunk.css": "/static/css/2.9c2f8ba7.chunk.css",
+    "static/js/2.6d5e31d0.chunk.js": "/static/js/2.6d5e31d0.chunk.js",
+    "static/js/2.6d5e31d0.chunk.js.map": "/static/js/2.6d5e31d0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6c20fabb32959ef08c0d9d126b0aa4ab.js": "/precache-manifest.6c20fabb32959ef08c0d9d126b0aa4ab.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.9c2f8ba7.chunk.css.map": "/static/css/2.9c2f8ba7.chunk.css.map",
+    "static/css/main.14d56bcb.chunk.css.map": "/static/css/main.14d56bcb.chunk.css.map",
+    "static/js/2.6d5e31d0.chunk.js.LICENSE.txt": "/static/js/2.6d5e31d0.chunk.js.LICENSE.txt",
+    "static/media/2016ChryslerTownCountry.png": "/static/media/2016ChryslerTownCountry.923823c9.png",
+    "static/media/Honda-Accord-Sport-1.5T-2020.jpg": "/static/media/Honda-Accord-Sport-1.5T-2020.4481a7bd.jpg",
+    "static/media/Hyundai-Universe.jpg": "/static/media/Hyundai-Universe.bf5505b0.jpg",
+    "static/media/boat(1).jpg": "/static/media/boat(1).913bc57c.jpg",
+    "static/media/boat(2).jpg": "/static/media/boat(2).4e7b468e.jpg",
+    "static/media/chevrolet-sub17.jpg": "/static/media/chevrolet-sub17.ab82a7fa.jpg",
+    "static/media/hyundai-h12020.jpg": "/static/media/hyundai-h12020.50984425.jpg",
+    "static/media/hyundai-sonata-y20-2017.jpg": "/static/media/hyundai-sonata-y20-2017.72d4c54a.jpg",
+    "static/media/jetski.jpg": "/static/media/jetski.10ae7243.jpg",
+    "static/media/toyo-hiace-20.png": "/static/media/toyo-hiace-20.df1b27ed.png",
+    "static/media/toyota-highlander20.png": "/static/media/toyota-highlander20.9d30d1bf.png",
+    "static/media/toyota-sienna-limited-2018.jpg": "/static/media/toyota-sienna-limited-2018.99d86fa6.jpg",
+    "static/media/undraw_scooter_aia8.svg": "/static/media/undraw_scooter_aia8.1c5cfaf5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65dca608.js",
+    "static/css/2.9c2f8ba7.chunk.css",
+    "static/js/2.6d5e31d0.chunk.js",
+    "static/css/main.14d56bcb.chunk.css",
+    "static/js/main.0db480a4.chunk.js"
+  ]
+}
